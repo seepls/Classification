@@ -72,6 +72,6 @@ def main():
 	
 main()
                 
-                
+#some neighbours are better than another hence weighted neighbours /
     
                 
